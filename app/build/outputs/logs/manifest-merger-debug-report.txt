@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/David/.android/build-cache/aa7e03ca3736c3e055a2d21feda4838266b24da5/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:7:18-90
+activity#com.davidlin54.shopicruitsummer2018.views.MainActivity
+ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:14:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:27.0.2] /Users/David/.android/build-cache/0987230d81b1c0b777e3da51a2031916b8bc79ee/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/David/.android/build-cache/7e3f941b69e303a739ec278671cdf6afe7cf08db/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/David/.android/build-cache/09909d68ca76bad7686a6ca9ada1522e91e2c07a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/David/.android/build-cache/cde5c171db615bafa64df94b27da71bf4ab29639/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/David/.android/build-cache/a801472f6bed6cd4bfb7105fb9e67b9cd22f9317/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/David/.android/build-cache/3e178cf1a8be21be01979b766d240010d6a20380/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/David/.android/build-cache/b70f0a1b598b0e2cdd72c2010c9475ef6018f5ec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/David/.android/build-cache/5bbe5dcaf7b97ced8b93ea1a6e4ee6326fe10640/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/David/.android/build-cache/891d302804977b7d4c9638ffb373e504e5a956fd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/David/.android/build-cache/92ca1e92c48bec0d3da8d1b4eb7f5163d9c8cc6b/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/David/.android/build-cache/78f4cb3a8db022dc80b4224eab5c14486bb342a5/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/David/.android/build-cache/aa7e03ca3736c3e055a2d21feda4838266b24da5/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/David/Desktop/ShopicruitSummer2018/app/src/main/AndroidManifest.xml

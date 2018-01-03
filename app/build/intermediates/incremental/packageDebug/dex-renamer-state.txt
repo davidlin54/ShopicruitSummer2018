@@ -1,0 +1,7 @@
+#Wed Jan 03 10:43:02 EST 2018
+base.0=/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12e7523fc9c6eff936358cdc422a8b38edf0bb7a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84e1142ee159bb1d25a5ce2d967e8b75bda4df70/classes.dex
+base.1=/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84e1142ee159bb1d25a5ce2d967e8b75bda4df70
+file.0=/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12e7523fc9c6eff936358cdc422a8b38edf0bb7a/classes.dex

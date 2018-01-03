@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopicruitSummer2018</string>
+
+    <string name="item_price">Price: %1$s</string>
+    <string name="item_weight">Weight: %1$s</string>
+    <string name="item_description">Description</string>
+    <string name="item_variants">Variant</string>
+    <string name="item_specifications">Specifications</string>
+</resources>

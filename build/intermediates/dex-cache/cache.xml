@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/David/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_a439a26f5fc196ca962bce20f031988fd56ce6a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12e7523fc9c6eff936358cdc422a8b38edf0bb7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e764fd016089f8534808ecb7a9edd2db8aa679d8">
+        <dex dex="/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_84e1142ee159bb1d25a5ce2d967e8b75bda4df70/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/David/.android/build-cache/92ca1e92c48bec0d3da8d1b4eb7f5163d9c8cc6b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/David/.android/build-cache/92ca1e92c48bec0d3da8d1b4eb7f5163d9c8cc6b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/David/.android/build-cache/92ca1e92c48bec0d3da8d1b4eb7f5163d9c8cc6b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/David/Desktop/ShopicruitSummer2018/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/David/.android/build-cache/92ca1e92c48bec0d3da8d1b4eb7f5163d9c8cc6b/output/res/layout-v21/notification_action.xml"
+    }
+]
